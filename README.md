@@ -3,7 +3,6 @@
 LinShot is a modern, open-source screenshot tool for Linux desktops, created with popular annotation features such as simple freeform arrows, boxes, circles, and more. It features a clean, modular codebase and a robust overlay system for capturing screenshots with precision.
 
 ## Features
-- **Crosshair Overlay:** Custom-drawn, modular crosshair for accurate screenshot selection, independent of system cursor themes.
 - **Full-Screen and Area Capture:** Select the entire screen or a custom area with visual feedback.
 - **Modern Linux Support:** Designed for compatibility with a wide range of Linux desktop environments.
 - **Modular Architecture:** Easy to extend and modify, with clear separation of features.
@@ -21,6 +20,7 @@ LinShot is a modern, open-source screenshot tool for Linux desktops, created wit
 
 ### Annotation Examples
 ![Annotation Examples](screenshots/Screenshot3.png)
+
 *Examples of annotation tools: arrows, boxes, circles, and text added to a screenshot.*
 
 ## Development Status
